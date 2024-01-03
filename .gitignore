@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# Editor-related
+.vscode/
+.idea/
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Build output
+build/
+dist/
