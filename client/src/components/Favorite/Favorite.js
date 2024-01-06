@@ -22,7 +22,7 @@ const Home = () => {
   useEffect(() => {
     const refresh = setTimeout((xs) => {
       window.location.reload();
-    }, 100000);
+    }, 10000);
 
     return () => clearTimeout(refresh);
   }, []);
