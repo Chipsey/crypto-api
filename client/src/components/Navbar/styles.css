@@ -1,0 +1,17 @@
+.navBack {
+  background-color: rgba(247, 247, 247, 0.797);
+  width: 100%;
+  height: 120px;
+  position: absolute;
+  z-index: -1;
+}
+
+
+.navbar {
+  z-index: 100;
+}
+
+.icon-text {
+  font-size: 13px;
+}
+
